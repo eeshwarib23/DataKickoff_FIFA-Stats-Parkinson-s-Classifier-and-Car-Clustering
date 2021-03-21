@@ -2,4 +2,5 @@
 
 1.EDA on FIFA Data
 2. Supervised Classification 
-3. 
+3. Statistical Analysis
+4. K-Means clustering
